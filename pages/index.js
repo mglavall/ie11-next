@@ -15,7 +15,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <Image
-          src="https://como-funciona.com/wp-content/uploads/2019/09/c%C3%B3mo-funciona-un-paisaje.jpg"
+          src="https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png"
           alt="Picture of the author"
           loading="eager"
           width={500}

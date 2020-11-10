@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["como-funciona.com"],
+    domains: ["como-funciona.com", "www.talkwalker.com"],
   },
 };
